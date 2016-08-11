@@ -2,7 +2,6 @@
 
 
 
-
 void print_sort(int x[], int len)
 {
         int i;
