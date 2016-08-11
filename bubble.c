@@ -20,7 +20,6 @@ void print_sort(int x[], int len)
 
 int main()
 {
-
         int a[] = {5,9,7,6,1,8,13,4};
 
         int len = sizeof(a)/sizeof(a[0]);
